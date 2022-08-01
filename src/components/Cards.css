@@ -1,0 +1,68 @@
+.p1 {
+
+    border-radius: 18px;
+    padding: 4px;
+    background-color: white;
+    font-size: small;
+    
+}
+
+.card-body {
+    -ms-flex: 1 1 auto;
+    flex: 1 1 auto;
+    min-height: 1px;
+    padding: 0.65rem;
+
+}
+.card {
+    margin: 1rem;
+    border-radius: 5px;
+}
+
+.card_container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 48.5rem;
+    margin-left: -12rem;
+
+
+}
+
+.OrderList {
+    border: 2px solid black;
+}
+
+.bs1 {
+    box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px, rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
+}
+
+
+.pink {
+    background-color: #ffebf8;
+}
+
+.light_blue {
+    background-color: azure;
+}
+
+.dark_blue {
+    background-color: #cae3f99c;
+}
+
+.orange {
+    background-color: #ebc6936b;
+}
+
+.vilote {
+    background-color: #ecffd5;
+}
+
+.d_blue {
+    background-color: #babaff66;
+}
+
+.yellow {
+    background-color: rgb(255 157 118 / 31%);
+
+}

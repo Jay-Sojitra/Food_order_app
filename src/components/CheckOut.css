@@ -1,0 +1,28 @@
+._container{
+    width: 75%;
+}
+._main-div{
+    width: 50rem;
+    margin-top:2px;
+}
+.cart_img{
+    width: 9rem;
+}
+
+.cart_title{
+    font-weight: bolder;
+    font-size: 1.5em;
+}
+
+.cart_quantity{
+    font-size: 1em;
+}
+
+.cart_total{
+    width: 65rem;
+    margin-top: -4px;
+}
+
+.total{
+    font-size: 2em;
+}
